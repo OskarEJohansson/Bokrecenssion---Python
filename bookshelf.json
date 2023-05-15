@@ -1,0 +1,29 @@
+[
+  {
+    "author": "Oskar",
+    "titel": "Hejsvejs",
+    "langugage": "Swe",
+    "rate": "5",
+    "review": "bra",
+    "user id": 1,
+    "review id": 5
+  },
+  {
+    "author": "Max",
+    "titel": "Terenius",
+    "langugage": "Swe",
+    "rate": "5",
+    "review": "B\u00e4st",
+    "user id": 1,
+    "review id": 2
+  },
+  {
+    "author": "Eli",
+    "titel": "Terenius",
+    "langugage": "Swe",
+    "rate": "5",
+    "review": "B\u00e4st",
+    "user id": 1,
+    "review id": 3
+  }
+]
